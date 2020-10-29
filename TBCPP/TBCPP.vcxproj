@@ -20,6 +20,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4.2.cpp" />
+    <ClCompile Include="My_Constant.cpp" />
+    <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="My_Constant.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
