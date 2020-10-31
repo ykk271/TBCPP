@@ -1,6 +1,2 @@
-﻿  4.5.cpp
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\4.5.cpp(14,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\4.5.cpp(33,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\4.5.cpp(37,16): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\4.5.cpp(38,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+﻿  4.6.cpp
   TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\x64\Debug\TBCPP.exe
