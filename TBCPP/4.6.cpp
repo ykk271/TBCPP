@@ -22,7 +22,7 @@ int main()
 	cout << "Your age ? : ";
 	string age;
 	cin >> age;
-	cout << "Your age: " << age << endl;;
+	cout << "Your age: " << age << endl;
 	return 0;
 
 }

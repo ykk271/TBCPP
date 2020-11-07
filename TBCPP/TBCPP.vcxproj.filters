@@ -18,5 +18,8 @@
     <ClCompile Include="4.6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4.7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
