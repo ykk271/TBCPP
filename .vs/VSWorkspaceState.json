@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TBCPP"
   ],
-  "SelectedNode": "\\TBCPP.sln",
+  "SelectedNode": "\\TBCPP\\TBCPP.vcxproj.user",
   "PreviewInSolutionExplorer": false
 }
