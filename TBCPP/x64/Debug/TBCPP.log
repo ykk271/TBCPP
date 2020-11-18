@@ -1,2 +1,2 @@
-﻿  5.8.cpp
-  TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\x64\Debug\TBCPP.exe
+﻿  6.1.cpp
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\6.1.cpp(20): error C4789: buffer 'student_scores' of size 20 bytes will be overrun; 4 bytes will be written starting at offset 20
