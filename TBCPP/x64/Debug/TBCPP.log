@@ -1,2 +1,4 @@
-﻿  6.2.cpp
-  TBCPP.vcxproj -> C:\Users\YKK\Desktop\CODING\TBCPP\x64\Debug\TBCPP.exe
+﻿  6.7.cpp
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\6.7.cpp(12,18): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\6.7.cpp(12,18): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\x64\Debug\TBCPP.exe
