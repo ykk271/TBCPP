@@ -1,2 +1,4 @@
-﻿  7.4.cpp
-  TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\Debug\TBCPP.exe
+﻿  7.5.cpp
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\7.5.cpp(22,7): error C2040: 'value': 'int *' differs in levels of indirection from 'int'
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\7.5.cpp(23,10): error C2100: illegal indirection
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\7.5.cpp(23,7): error C2088: '<<': illegal for class
