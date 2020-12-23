@@ -1,4 +1,7 @@
-﻿  10.5.cpp
-  Worker.cpp
-  코드를 생성하고 있습니다...
-  TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\Debug\TBCPP.exe
+﻿  11.8.cpp
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(23,12): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(23,12): error C2556: 'int Base::print(void)': 오버로드된 함수가 'void Base::print(void)'과(와) 반환 형식만 다릅니다.
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(17): message : 'Base::print' 선언을 참조하십시오.
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(23,2): error C2371: 'Base::print': 재정의. 기본 형식이 다릅니다.
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(17): message : 'Base::print' 선언을 참조하십시오.
+C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\11.8.cpp(23,18): warning C4183: 'print': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
