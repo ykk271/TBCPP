@@ -1,5 +1,4 @@
-﻿  12.11.cpp
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\12.11.cpp(9,1): error C2280: 'std::basic_ostream<char,std::char_traits<char>>::basic_ostream(const std::basic_ostream<char,std::char_traits<char>> &)': 삭제된 함수를 참조하려고 합니다.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\ostream(60): message : 'std::basic_ostream<char,std::char_traits<char>>::basic_ostream' 선언을 참조하십시오.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\ostream(60,24): message : 'std::basic_ostream<char,std::char_traits<char>>::basic_ostream(const std::basic_ostream<char,std::char_traits<char>> &)': 함수가 명시적으로 삭제되었습니다.
-C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\TBCPP\12.11.cpp(24,24): error C3668: 'Derived::print': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+﻿  13.2.cpp
+  MyArray.cpp
+  코드를 생성하고 있습니다...
+  TBCPP.vcxproj -> C:\Users\rladp\OneDrive\바탕 화면\CODING\TBCPP\Debug\TBCPP.exe
