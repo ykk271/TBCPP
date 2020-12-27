@@ -17,13 +17,9 @@ int main()
 
 	std::cout << std << std::endl;
 	std::cout << teacher << std::endl;
-
-	std.study();
-	teacher.teach();
-
-	Person person;
-	person.setName("Mr. Lee");
-	person.getName();
+	
+	std.doNothing();
+	teacher.doNothing();
 
 	return 0;
 }
