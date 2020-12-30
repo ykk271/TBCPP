@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="13.2.cpp" />
-    <ClCompile Include="MyArray.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="MyArray.h" />
+    <ClCompile Include="13.8.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

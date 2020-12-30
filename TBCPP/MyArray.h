@@ -3,23 +3,26 @@
 #include <iostream>
 
 template<typename T>
+template<typename T, unsigned int T_SIZE>
 class MyArray
 {
 private:
-	T m_length;
+	//T m_length;
 	T* m_data;
 
 public:
 	MyArray()
 	{
-		m_length = 0;
-		m_data = nullptr;
+		/*m_length = 0;
+		m_data = nullptr;*/
+		m_daya = new T[T_SIZE];
 	}	
 
-	MyArray(int length)
+	MyArray()
 	{
-		m_data = new T[length];
-		m_length = length;
+		//m_data = new T[length];
+		//m_length = length;
+		delete[] m_data;
 	}
 
 	~MyArray()
